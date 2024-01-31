@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Какие документы нужны для оформления?",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquam lorem nec enim placerat, quis vulputate ante consequat. Curabitur mattis nunc vel volutpat malesuada. Donec sed augue tellus. Aliquam condimentum sodales tortor, et viverra nisi luctus vitae. Nulla facilisi. Sed venenatis velit eget bibendum pharetra. Donec nec sollicitudin risus. Nullam id ornare magna. In molestie hendrerit magna vitae posuere. Etiam venenatis ornare luctus. Etiam dictum neque in justo blandit porttitor. Pellentesque ac libero nulla. Sed aliquam mauris ut scelerisque mollis.",
+    "icon": "/accordeon.svg"
+  },
+  {
+    "title": "Когда выплачивается заработная плата?",
+    "icon": "/accordeon.svg",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquam lorem nec enim placerat, quis vulputate ante consequat. Curabitur mattis nunc vel volutpat malesuada. Donec sed augue tellus. Aliquam condimentum sodales tortor, et viverra nisi luctus vitae. Nulla facilisi. Sed venenatis velit eget bibendum pharetra. Donec nec sollicitudin risus. Nullam id ornare magna. In molestie hendrerit magna vitae posuere. Etiam venenatis ornare luctus. Etiam dictum neque in justo blandit porttitor. Pellentesque ac libero nulla. Sed aliquam mauris ut scelerisque mollis."
+  },
+  {
+    "title": "Есть ли система штрафов?",
+    "icon": "/accordeon.svg",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquam lorem nec enim placerat, quis vulputate ante consequat. Curabitur mattis nunc vel volutpat malesuada. Donec sed augue tellus. Aliquam condimentum sodales tortor, et viverra nisi luctus vitae. Nulla facilisi. Sed venenatis velit eget bibendum pharetra. Donec nec sollicitudin risus. Nullam id ornare magna. In molestie hendrerit magna vitae posuere. Etiam venenatis ornare luctus. Etiam dictum neque in justo blandit porttitor. Pellentesque ac libero nulla. Sed aliquam mauris ut scelerisque mollis."
+  },
+  {
+    "title": "Когда я могу пойти в отпуск?",
+    "icon": "/accordeon.svg",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquam lorem nec enim placerat, quis vulputate ante consequat. Curabitur mattis nunc vel volutpat malesuada. Donec sed augue tellus. Aliquam condimentum sodales tortor, et viverra nisi luctus vitae. Nulla facilisi. Sed venenatis velit eget bibendum pharetra. Donec nec sollicitudin risus. Nullam id ornare magna. In molestie hendrerit magna vitae posuere. Etiam venenatis ornare luctus. Etiam dictum neque in justo blandit porttitor. Pellentesque ac libero nulla. Sed aliquam mauris ut scelerisque mollis."
+  },
+  {
+    "title": "Кем можно стать, работая на складе?",
+    "icon": "/accordeon.svg",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquam lorem nec enim placerat, quis vulputate ante consequat. Curabitur mattis nunc vel volutpat malesuada. Donec sed augue tellus. Aliquam condimentum sodales tortor, et viverra nisi luctus vitae. Nulla facilisi. Sed venenatis velit eget bibendum pharetra. Donec nec sollicitudin risus. Nullam id ornare magna. In molestie hendrerit magna vitae posuere. Etiam venenatis ornare luctus. Etiam dictum neque in justo blandit porttitor. Pellentesque ac libero nulla. Sed aliquam mauris ut scelerisque mollis."
+  },
+  {
+    "title": "Как проходит обучение сотрудников склада?",
+    "icon": "/accordeon.svg",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquam lorem nec enim placerat, quis vulputate ante consequat. Curabitur mattis nunc vel volutpat malesuada. Donec sed augue tellus. Aliquam condimentum sodales tortor, et viverra nisi luctus vitae. Nulla facilisi. Sed venenatis velit eget bibendum pharetra. Donec nec sollicitudin risus. Nullam id ornare magna. In molestie hendrerit magna vitae posuere. Etiam venenatis ornare luctus. Etiam dictum neque in justo blandit porttitor. Pellentesque ac libero nulla. Sed aliquam mauris ut scelerisque mollis."
+  }
+]
